@@ -1,4 +1,4 @@
-# 📈 CUSTOMER CHURN-PREDICTION : Machine Learning
+# 📈 CUSTOMER CHURN PREDICTION : Machine Learning
 
 <b> What is Customer Churn? </b>
 
